@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+
+	background-size: cover;
+}
+.skill{
+	font-size: 75px;
+	text-align: center;
+	color: #000033;
+}
+
+.sk{
+	font-size: 25px;
+	line-height: 85px;
+	position: absolute;
+	left: 10%;
+
+}

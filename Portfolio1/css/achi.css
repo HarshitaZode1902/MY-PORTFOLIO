@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+
+	background-size: cover;
+}
+
+.p{
+	font-size: 75px;
+	text-align: center;
+	color: #000033;
+}
+.p1{
+	font-size: 25px;
+	
+	color: blue;
+}
+.p2{
+	font-size: 20px;
+	margin-left: 22px;
+	
+}
+
+.q1{
+	font-size: 25px;
+	
+	color: blue;
+}
+
+.qq{
+	font-size: 20px;
+	margin-left: 22px;
+	
+}

@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+
+	background-size: cover;
+}
+
+.c1{
+	font-size: 75px;
+	text-align: center;
+	color: #000033;
+}
+.c2{
+	font-size: 25px;
+	line-height: 45px;
+	text-align: center;
+	margin-top: 29%;
+	
+}
+
+.img{
+	position: absolute;
+	left: 42%;
+	
+}
